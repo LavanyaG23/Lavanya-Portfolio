@@ -50,7 +50,7 @@ import {
     },
     {
       id: "contact",
-      title: "Contact",
+      title: "Feedbacks",
     },
   ];
   
